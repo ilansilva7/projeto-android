@@ -46,7 +46,7 @@ header > h1{
     font-weight: normal;
 }
 
-header p{
+header > p{
     /* Configuração de fonte pontual no código HTML*/
     color: white;
     text-decoration: none;
